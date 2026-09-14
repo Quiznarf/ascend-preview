@@ -1,11 +1,9 @@
-# Ascend team preview — v0.5
+# Ascend team demo entry
 
-[Open the demo](https://quiznarf.github.io/ascend-preview/).
+[Open Ascend](https://lta-ascend-team.azurewebsites.net/pilot) and sign in with your invited Microsoft school account.
 
-This repository contains only the compiled fictional-data demo. The main application source stays in a separate private repository.
+This GitHub Pages repository provides a redirect and fallback link to the Azure-hosted team demo. The same fixed destination is used for older links; URL paths, queries and fragments are not forwarded.
 
-Try the new conversation home, Reveal workspace and Full workspace, guided student workflows, award certificates, and sample trophy-order review. The public conversation is a bounded guided simulation. Orders use fixed example quantities; approving only simulates the email. No live AI or supplier sending occurs.
+The team demo uses fictional school records. The Azure application handles AI requests and keeps API credentials on the server. This repository contains no application server, API key, school records or scripted chat interface.
 
-Each browser saves its own fictional student records. Use made-up contact details and **Reset my demo** to start fresh. Conversation and sample order reviews last for the page session. No staff login, shared production database, real student import, ARVO connection, or parent messaging is connected.
-
-Built from private source revision 174a0ab4cde08b069cc2883ab27b458931a932e1. No open-source license is granted.
+The application source remains in the separate private repository. No open-source license is granted.
