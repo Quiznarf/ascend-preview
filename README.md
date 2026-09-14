@@ -1,11 +1,11 @@
-# Ascend team preview
+# Ascend team preview — v0.5
 
 [Open the demo](https://quiznarf.github.io/ascend-preview/).
 
-This repository contains the compiled interactive demo for Learn The Arts! The main application source is kept in a separate private repository.
+This repository contains only the compiled fictional-data demo. The main application source stays in a separate private repository.
 
-All supplied people and achievements are fictional. Each browser saves its own demo records; changes are not shared with other team members. Use made-up contact details and choose **Reset my demo** to start fresh.
+Try the new conversation home, Reveal workspace and Full workspace, guided student workflows, award certificates, and sample trophy-order review. The public conversation is a bounded guided simulation. Orders use fixed example quantities; approving only simulates the email. No live AI or supplier sending occurs.
 
-Try student enrollment, music and dance progression, recording tests, award presentation, and certificates. The demo has no staff login, shared production database, real student import, ARVO connection, or parent messaging.
+Each browser saves its own fictional student records. Use made-up contact details and **Reset my demo** to start fresh. Conversation and sample order reviews last for the page session. No staff login, shared production database, real student import, ARVO connection, or parent messaging is connected.
 
-Built from source revision `59afe6de2ad23f9fdd3d0ba446a72d9c4fb446bc`. This compiled demo is published for review; no open-source license is granted.
+Built from private source revision 174a0ab4cde08b069cc2883ab27b458931a932e1. No open-source license is granted.
